@@ -1,0 +1,15 @@
+.block{
+    margin-top: 10%;
+    margin-left: 15%;
+    padding: 4%;
+}
+
+p{
+    @extend .block;
+    color: rgba(31, 44, 44, 0.2);
+}
+
+ul,ol{
+    @extend .block;
+    color: rgb(160, 49, 49);
+}

@@ -1,0 +1,14 @@
+section {
+  margin-left: 20%;
+}
+section nav {
+  width: 40px;
+}
+section nav a {
+  color: red;
+}
+section nav a:hover {
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=exemplo2.css.map */

@@ -1,0 +1,30 @@
+	CSS - Cascading Style Sheet
+Pre-processador 
+Sao programas que recebem uma entrada e executam uma conversao, e escrito em uma determinada sintaxe que e pre-processada gerando outra sintaxe.
+
+Pesquisa sobre front end -> https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results#css-processors
+
+pre-processador css
+Sass - https://sass-lang.com/ --- npm install -g sass
+Less - http://lesscss.org/
+Stylus - https://stylus-lang.com/
+
+
+Vantagens
+Import, funcoes, mixins, extends
+
+exemplo 1 - diferentes tipos de arquivos variaveis e conversao
+sass --watch exemplo1.scss:exemplo1.css
+
+exemplo 2 - alinhamento
+sass exemplo2.scss:exemplo2.css
+
+exemplo 3 - herança (herda as propriedades de outro seletor)
+sass exemplo3.scss:exemplo3.css
+
+exemplo 4 - import/funcoes
+sass exemplo4.scss:exemplo4.css
+
+
+https://tableless.com.br/sass-vs-less-vs-stylus-batalha-dos-pre-processadores/
+

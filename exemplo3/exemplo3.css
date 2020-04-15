@@ -1,0 +1,15 @@
+.block, ul, ol, p {
+  margin-top: 10%;
+  margin-left: 15%;
+  padding: 4%;
+}
+
+p {
+  color: rgba(31, 44, 44, 0.2);
+}
+
+ul, ol {
+  color: #a03131;
+}
+
+/*# sourceMappingURL=exemplo3.css.map */

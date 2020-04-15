@@ -1,0 +1,8 @@
+@import 'color';
+
+body{
+    background-color: $red;
+}
+p{
+    color: mix($red, $yellow, 20%);
+}

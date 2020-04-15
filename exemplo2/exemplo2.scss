@@ -1,0 +1,13 @@
+$color : red;
+section{
+    margin-left: 20%;
+    nav{
+        width: 40px;
+        a{
+            color: $color;
+            &:hover{
+                text-decoration: none;
+            }
+        }
+    }
+}
